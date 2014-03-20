@@ -1,0 +1,12 @@
+html{
+	font-family:comic sans ms;
+}
+.main {
+	width:1000px;
+	height:1000px;
+	margin:50px auto;
+	
+	min-width:1000px;
+	max-width:1000px;
+
+}
